@@ -1,6 +1,6 @@
 # The Swiss Parliament
 
-This repository houses the files for the Swiss Parliament visualization, which is available and detailed at [parlament.kmapper.com](https://parlament.kmapper.com/). This visualization is a public portfolio project by [kmapper GmbH](https://kmapper.com), and it's built using open data sourced from [parlament.ch](https://www.parlament.ch/).
+This repository houses the files for the Swiss Parliament visualization, which is available and detailed at [parlament.kmapper.ch](https://parlament.kmapper.ch/). This visualization is a public portfolio project by [kmapper GmbH](https://kmapper.com), and it's built using open data sourced from [parlament.ch](https://www.parlament.ch/).
 
 
 ## Dependencies
